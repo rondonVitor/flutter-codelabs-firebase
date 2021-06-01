@@ -3,7 +3,7 @@
 A new Flutter project.
 
 This project was made by codelabs:
-- [Codelabs: Get to know Firebase for Flutter](https://firebase.google.com/codelabs/firebase-get-to-know-flutter#1)
+- [Codelabs: Get to know Firebase for Flutter](https://firebase.google.com/codelabs/firebase-get-to-know-flutter#0)
 
 ## Getting Started
 
